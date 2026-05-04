@@ -134,4 +134,4 @@ Desarrollador enfocado en sistemas empresariales y aplicaciones de escritorio ðŸ
 
 ## ðŸ“œ Licencia
 
-Proyecto de uso libre para fines educativos y profesionales.
+Licencia MIT.
