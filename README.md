@@ -76,7 +76,7 @@ src/
 1. Clonar el repositorio:
 
 ```bash id="d3l9av"
-git clone https://github.com/TU-USUARIO/punto-venta-javafx.git
+git clone https://github.com/isairey/PuntoVentaFX.git
 ```
 
 2. Abrir el proyecto en tu IDE:
